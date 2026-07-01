@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="toolkit_hero.svg" alt="Image Processing Toolkit Banner" width="600"/>
+<img src="https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/banner.png" alt="Image Processing Toolkit Banner" width="600"/>
 
 # 🖼️ Image Processing Toolkit
 
@@ -60,19 +60,24 @@ This project was built as a hands-on Python learning project by **Daksh Sharma**
 
 > **Home Screen**
 
-![Home Screen](screenshots/home.png)
+![Home Screen](https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/home%20page.png)
 
-> **Editor Window — Filter & Effects**
+> **Main Window**
 
-![Editor Filters](screenshots/editor_filters.png)
+![Main Window](https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/main%20page.png)
+
+> **Editor Window — Filter & Effects 1**
+
+![Editor Filters](https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/filter%20%26%20effect%201.png)
+
+> **Editor Window — Filter & Effects 2**
+
+![Editor Filters](https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/filter%20%26%20effect%202.png)
 
 > **Editor Window — Transformations**
 
-![Editor Transforms](screenshots/editor_transform.png)
-
-> **Before / After Preview**
-
-![Before After](screenshots/before_after.png)
+![Editor Transforms](https://github.com/dakshcrafts/image-processing-toolkit/blob/c7aa0391719db0326d3ad7386e22b6d7c8b92314/assets/tranformation.png
+)
 
 ---
 
@@ -80,12 +85,7 @@ This project was built as a hands-on Python learning project by **Daksh Sharma**
 
 > Click the thumbnail below to watch the full demo on YouTube
 
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/your-video-link)
-
-<!-- Replace the link above with your actual YouTube video URL -->
-<!-- To embed a video thumbnail directly:
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
+[![Demo Video](https://img.youtube.com/vi/JPyCpjPr7gs?si=GruS9I6omLkxiTAk/maxresdefault.jpg)](https://youtube.com/shorts/JPyCpjPr7gs?si=GruS9I6omLkxiTAk)
 
 ---
 
@@ -224,8 +224,8 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 **Daksh Sharma**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Eagle_Head-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![YouTube](https://img.shields.io/badge/YouTube-Eagle_Head_YT-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/your-channel)
+[![GitHub](https://img.shields.io/badge/GitHub-Daksh_Crafts-181717?style=for-the-badge&logo=github)](https://github.com/dakshcrafts)
+[![YouTube](https://img.shields.io/badge/YouTube-Daksh_Crafts-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/daksh-crafts)
 
 *Built with 💜 using Python*
 

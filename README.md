@@ -85,7 +85,7 @@ This project was built as a hands-on Python learning project by **Daksh Sharma**
 
 > Click the thumbnail below to watch the full demo on YouTube
 
-[![Demo Video](https://img.youtube.com/vi/JPyCpjPr7gs?si=GruS9I6omLkxiTAk/maxresdefault.jpg)](https://youtube.com/shorts/JPyCpjPr7gs?si=GruS9I6omLkxiTAk)
+[![Watch Demo](https://raw.githubusercontent.com/dakshcrafts/image-processing-toolkit/main/assets/thumbnail.png)](https://youtube.com/shorts/JPyCpjPr7gs?si=0BSANL7OHcnclSGm)
 
 ---
 
